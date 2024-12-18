@@ -38,9 +38,9 @@ Clear-Host
 
 Write-Host "";
 Write-Host "";
-Write-Host -ForegroundColor Green " Viva el Real Betis Balompie " -NoNewLine
-Write-Host -ForegroundColor White " - IlleUco " -NoNewLine
-Write-Host -ForegroundColor Green " discord.gg/sololegends";
+Write-Host -ForegroundColor Green " Viva el Real Madrid " -NoNewLine
+Write-Host -ForegroundColor White " - Bills " -NoNewLine
+Write-Host -ForegroundColor Green " discord.gg/prismamc";
 Write-Host "";
 
 function Test-Admin {;$currentUser = New-Object Security.Principal.WindowsPrincipal $([Security.Principal.WindowsIdentity]::GetCurrent());$currentUser.IsInRole([Security.Principal.WindowsBuiltinRole]::Administrator);}
