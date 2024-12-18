@@ -1,0 +1,1 @@
+For using it open a CMD with administrator privilegies and execute: "powershell Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass && powershell Invoke-Expression (Invoke-RestMethod https://raw.githubusercontent.com/IlleUco/ScreenShare/main/BamRobadoIlleUco.ps1)"
